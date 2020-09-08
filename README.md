@@ -1,2 +1,2 @@
 # PJ01
-A simple practice for consoliding and testing some knowledge.
+A simple practice just for consoliding and testing some knowledge.
